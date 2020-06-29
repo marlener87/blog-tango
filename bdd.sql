@@ -19,9 +19,9 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données :  `flooder34_blog-ecrivain`
-CREATE DATABASE IF NOT EXISTS `blog-ecrivain` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `blog-ecrivain`;
+-- Base de données :  `flooder34_blog-tango`
+CREATE DATABASE IF NOT EXISTS `blog-tango` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `blog-tango`;
 
 -- --------------------------------------------------------
 

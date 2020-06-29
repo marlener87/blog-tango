@@ -7,7 +7,7 @@ final class Config
     // Identifiants Database
     const
     DB_HOST = 'localhost',
-    DB_NAME = 'blog-ecrivain',
+    DB_NAME = 'blog-tango',
     DB_USR = 'root',
     DB_PWD = '',
 
