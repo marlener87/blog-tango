@@ -7,5 +7,5 @@ ErrorDocument 502 /blog-tango/view/error.php
 ErrorDocument 504 /blog-tango/view/error.php
 
 RewriteEngine On
-RewriteRule ^([^_]*)_([^_]*)\.html$ /blog-tango/?p=$1&a=$2&id=$3 [L]
+RewriteRule ^([^_]*)_([^_]*)\.html$ /blog-tango/blog-tango/?p=$1&a=$2&id=$3 [L]
 RewriteRule ^([^_]*)_([^_]*)_([^_]*)_([^_]*)_([^_]*)\.html$ /blog-tango/?p=$1&a=$2&postid=$3&commentId=$4&vote=$5 [L]
